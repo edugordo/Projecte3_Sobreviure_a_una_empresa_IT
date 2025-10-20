@@ -97,4 +97,4 @@ Aquesta guia ha de ser clara i ha d’incloure **captures de pantalla i instrucc
 Aquesta és una **tasca individual**.  
 Caldrà lliurar els fitxers dins el **repositori del projecte-3** amb la següent estructura:
 
-[Solució](Tasca01/soulció.md)
+[Solució](soulció.md)
