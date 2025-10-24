@@ -44,10 +44,8 @@ Això implica:
 
 ## 📄 Documentació Addicional
 
-S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar.  
+S’ha redactat un [document](document.md) on s’especifica clarament la feina que s’ha de desenvolupar.  
 El teniu disponible en el **plec de condicions tècniques** (també el podeu trobar al **Moodle de l’assignatura**).
 
-
-### [Solució](solució.md)
 
 ### [Guia](guia.md)
