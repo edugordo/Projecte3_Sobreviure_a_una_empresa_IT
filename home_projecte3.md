@@ -8,5 +8,7 @@
 
 [Tasca01](Tasca01/tasca01.md)
 
+[Tasca04](Tasca04/tasca04.md)
+
 ### Productes Finals: 🎯
 
