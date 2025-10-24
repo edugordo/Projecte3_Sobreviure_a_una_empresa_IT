@@ -48,6 +48,6 @@ S’ha redactat un document on s’especifica clarament la feina que s’ha de d
 El teniu disponible en el **plec de condicions tècniques** (també el podeu trobar al **Moodle de l’assignatura**).
 
 
-### [Solució](Tasca04/solució.md)
+### [Solució](solució.md)
 
-### [Guia](Tasca04/guia.md)
+### [Guia](guia.md)
