@@ -47,10 +47,4 @@ Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els difere
 
 ---
 
-### 🔍 Comprovació amb `nslookup` (Multiplataforma)
-
-**Mode interactiu:**  
-```text
-> set type=        # Indicar tipus de consulta: A, AAA, MX, NS, SOA, TXT, ALL
-> server IP        # Seleccionar servidor de noms
-> exit             # Sortir del mode interactiu
+[Guia](Tasca06/guia.md)
