@@ -85,7 +85,7 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 3. **T03 – Gestió flexible de discos** (LVM i Espais d’emmagatzematge)
 4. **[T04 – Serveis de Directori (LDAP)](Tasca04/tasca04.md)**
 5. **T05 – Anàlisi de l’entorn:** possibles models de negoci pels clients tecnològics
-6. **T06 – Fonaments del servei DNS**
+6. **[T06 – Fonaments del servei DNS](Tasca06/tasca06.md)**
 7. **T07 – Instal·lant un servidor de noms**
 8. **T08 – Sitemaps i infraestructura d’una pàgina web**
 9. **T09 – Càlcul de la petjada**
