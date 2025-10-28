@@ -93,13 +93,13 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 ---
 
 ## 📌 Productes finals detallats
-1. **Kanban del projecte**
-2. **Repositori GitHub de tota la documentació**  
-3. **[Rèplica de la web](Projecte03/README.md)**
-4. **Configuració servidor DNS**
-5. **Presentació comparativa LVM vs Espais Emmagatzematge**
-6. **Vídeo per parelles fonaments del DNS**  
-7. **Infografia de sostenibilitat**
+1. **P01 – Kanban del projecte**
+2. **P02 – Repositori GitHub de tota la documentació**  
+3. **[P03 – Rèplica de la web](Projecte03/README.md)**
+4. **P04 – Configuració servidor DNS**
+5. **P05 – Presentació comparativa LVM vs Espais Emmagatzematge**
+6. **P06 – Vídeo per parelles fonaments del DNS**  
+7. **P07 – Infografia de sostenibilitat**
 
 ---
 
