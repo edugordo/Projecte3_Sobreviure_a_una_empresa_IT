@@ -114,3 +114,4 @@ La documentació dels dos casos s’ha de realitzar en **format Markdown** (`.md
 
 ### 📘 [Guia](guia.md)
 
+---
