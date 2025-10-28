@@ -85,4 +85,4 @@ Un cop finalitzada la formació, hauràs de **respondre un qüestionari** per av
 ✨ **Recorda:** la seguretat de la informació és responsabilitat de tots! ✨  
 > 🔐 *Protegeix les dades, protegeix la confiança.*
 
-</div>
+[**Guia**](guia.md)
