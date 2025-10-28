@@ -48,5 +48,5 @@ Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els difere
 ---
 
 
-### [Guia](guia.md)
+### 📘 [Guia](guia.md)
 
