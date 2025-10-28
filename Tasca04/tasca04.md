@@ -48,4 +48,4 @@ S’ha redactat un [document](document.md) on s’especifica clarament la feina 
 El teniu disponible en el **plec de condicions tècniques** (també el podeu trobar al **Moodle de l’assignatura**).
 
 
-### [Guia](guia.md)
+### 📘 [Guia](guia.md)
