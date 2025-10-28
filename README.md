@@ -94,7 +94,7 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 
 ## 📌 Productes finals detallats
 1. **[P01 – Kanban del projecte](Projecte01/README.md)**
-2. **P02 – Repositori GitHub de tota la documentació**  
+2. **[P02 – Repositori GitHub de tota la documentació](Projecte01/README.md)**  
 3. **[P03 – Rèplica de la web](Projecte03/README.md)**
 4. **P04 – Configuració servidor DNS**
 5. **P05 – Presentació comparativa LVM vs Espais Emmagatzematge**
