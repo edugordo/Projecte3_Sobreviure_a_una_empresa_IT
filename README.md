@@ -95,7 +95,7 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 ## 📌 Productes finals detallats
 1. **Kanban del projecte**
 2. **Repositori GitHub de tota la documentació**  
-3. **Rèplica de la web**
+3. **[Rèplica de la web](Projecte03/README.md)**
 4. **Configuració servidor DNS**
 5. **Presentació comparativa LVM vs Espais Emmagatzematge**
 6. **Vídeo per parelles fonaments del DNS**  
