@@ -57,3 +57,49 @@ El format *.ldif* es el predeterminat per declarar objectes al directori. **"lda
 # UD4.AA3 Configuració directori usant LAM
 
 ---
+
+![](IMG/18.1.png)
+
+Descarregan directament el paquet sencer del gestor, s'ens descarregaràn totes les dependències necessaries
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/14.1.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
