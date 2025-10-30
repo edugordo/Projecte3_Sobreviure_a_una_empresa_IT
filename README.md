@@ -80,7 +80,7 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 ---
 
 ## 🛠️ Tasques a desenvolupar
-1. **[T01 – Gestors de contrasenyes](Tasca04/tasca04.md)**
+1. **[T01 – Gestors de contrasenyes](Tasca01/tasca01.md)**
 2. **[T02 – Gestió de l’emmagatzematge (Sessions teòriques)](Tasca02/README.md)**
 3. **[T03 – Gestió flexible de discos (LVM i Espais d’emmagatzematge)](Tasca03/README.md)**
 4. **[T04 – Serveis de Directori (LDAP)](Tasca04/tasca04.md)**
