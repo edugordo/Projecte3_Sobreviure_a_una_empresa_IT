@@ -58,47 +58,97 @@ El format *.ldif* es el predeterminat per declarar objectes al directori. **"lda
 
 ---
 
-![](IMG/18.1.png)
+![](IMG/18.png)
 
 Descarregan directament el paquet sencer del gestor, s'ens descarregaràn totes les dependències necessaries
 
 ---
-![](IMG/14.1.png)
+![](IMG/19.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/20.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/21.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/22.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/23.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/24.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/25.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
-![](IMG/14.1.png)
+![](IMG/26.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/27.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/28.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/29.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/30.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/31.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/32.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/33.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/34.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/35.png)
+
+**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+
+---
+![](IMG/36.png)
 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
