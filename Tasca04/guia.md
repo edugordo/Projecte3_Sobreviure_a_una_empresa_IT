@@ -153,3 +153,7 @@ Descarregan directament el paquet sencer del gestor, s'ens descarregaràn totes 
 **"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
 
 ---
+
+# UD4.AA4 Autentificació utilitzatnt LDAP
+
+---
