@@ -45,7 +45,7 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 | :---- | :---- | :---- |
 | **T.LAM.01** | Instal·lació del Gestor d'Usuaris LDAP (LAM). | ![Imatge9](IMG/18.png) S'ha de documentar la comanda d'instal·lació. |
 | **T.LAM.02** | Accés Remot i Configuració. | ![Imatge10](IMG/46.png) Connectar a LAM des de la màquina física utilitzant l'adreça IP de la interfície **Host-Only**. |
-| **T.LAM.03** | Configuració per defecte. | ![Imatge11](IMG/47.png) Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'OU **users** i els nous grups a l'OU **groups**. |
+| **T.LAM.03** | Configuració per defecte. | ![Imatge11](IMG/47.png)  ![Imatge15](IMG/51.png) ![Imatge16](IMG/52.png) ![Imatge17](IMG/53.png) ![Imatge18](IMG/54.png)  Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'OU **users** i els nous grups a l'OU **groups**. |
 | **T.LAM.04** | Creació de Grups. | ![Imatge12](IMG/48.png) Crear dos grups de seguretat al directori: **tech** i **manager**. |
 | **T.LAM.05** | Creació d'Usuaris de Prova. | ![Imatge13](IMG/49.png) ![Imatge14](IMG/50.png) Crear un usuari per a cada grup: **tech01** (membre de tech) i **manager01** (membre de manager). |
 
