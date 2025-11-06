@@ -48,6 +48,6 @@ Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els difere
 ---
 
 
-### 📘 [Solució](solució.md)
+### 📘 [Guia](guia.md)
 
 ### 📘 [Video DNS](video./video.md)
