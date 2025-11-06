@@ -79,3 +79,6 @@ Usar **GitHub** per **documentar configuracions de servidors**, valorant els ava
 
 ✨ *Aquesta tasca fomenta la documentació tècnica, la col·laboració i la reutilització de configuracions dins d’un entorn professional.*
 
+---
+
+✅ [Guia](guia.md)
