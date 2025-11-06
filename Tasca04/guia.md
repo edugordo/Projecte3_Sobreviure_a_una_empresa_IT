@@ -65,7 +65,7 @@ Descarregan directament el paquet sencer del gestor, s'ens descarregaràn totes 
 ---
 ![](IMG/19.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Anirem al nostre buscador (Google) i cercarem *"http://IP de la màquina/lam"* i entrarem en el manager
 
 ---
 ![](IMG/20.png)
