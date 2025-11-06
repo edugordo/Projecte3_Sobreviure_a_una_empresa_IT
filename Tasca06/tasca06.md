@@ -50,3 +50,4 @@ Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els difere
 
 ### 📘 [Solució](solució.md)
 
+### 📘 [Video DNS](video./video.md)
