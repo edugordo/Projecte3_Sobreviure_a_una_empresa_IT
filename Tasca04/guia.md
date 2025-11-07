@@ -160,26 +160,25 @@ Abans de guardar l'usuari, li establirem una contraseña per iniciar sessió, l'
 
 ![](IMG/55.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+El primer que farem es configurar el nom del client per tal que tingui el domini corresponent al del directori. Posarem el nostre domini en el fitxer de ***"nano /etc/hosts"*** i el guardarem
 
 ---
 
 ![](IMG/56.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Amb la comanda ***"dig sever.innovatech08.test" comprovarem que els noms funcionen correctament
 
 ---
 
 ![](IMG/57.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Instalarem els mòduls necessaris per poder utilitzar *libpam* i *nss*. Per fer-ho, escriurem la següent comanda: ***apt install libnss-ldap ldap-utils nscd -y***
 
 ---
 
 ![](IMG/58.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
-
+En entrar la comanda d'isntal·lació, començarem amb la configuració del LDAP. Posarem el nostre domini en la casell i li donarem a acceptar
 ---
 
 ![](IMG/59.png)
