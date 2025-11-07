@@ -178,79 +178,79 @@ Instalarem els mòduls necessaris per poder utilitzar *libpam* i *nss*. Per fer-
 
 ![](IMG/58.png)
 
-En entrar la comanda d'isntal·lació, començarem amb la configuració del LDAP. Posarem el nostre domini en la casell i li donarem a acceptar
+En entrar la comanda d'isntal·lació, començarem amb la configuració del LDAP. Posarem el nostre domini en la casell i li donarem a acceptar per continuar
+
 ---
 
 ![](IMG/59.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+El següen que s'ens demana es un altre cop el nostre domini, quan el tinguem escrit, acceptarem i continuarem
 
 ---
 
 ![](IMG/60.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Aquesta pantalla la deixarem exactament tot com està i continuarem
 
 ---
 
 ![](IMG/61.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Seleccionarem l'opció de *si* i continuarem
 
 ---
 
 ![](IMG/62.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+I en aquesta seleccionem *no* i continuem
 
 ---
 
 ![](IMG/63.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Aqui configurem el compte LDAP del root: (admin) i el domini
 
 ---
 
 ![](IMG/64.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+I ficarem la contrasenya del compte de LDAP
 
 ---
 
 ![](IMG/65.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Amb aquesta comanda el que estem fent és fer una consulta LDAP des del client per comprovar si es connecta correctament amb el servidor
 
 ---
 
 ![](IMG/66.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Editarem el fitxer ***nano nsswitcc.conf*** per indicar que usarem LDAP per usuaris i grups
 
 ---
 
 ![](IMG/67.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+I després anirem al fitxer ***nano /etc/pam.d/common-password*** i eliminem la linia que conte el terme **use_authtok**
 
 ---
 
 ![](IMG/68.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Haurem d'editar un altre fitxer, concretament el ***nano /etc/pam.d/common-session*** i afegirem la linia per crear els perfils
 
 ---
 
 ![](IMG/69.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Reiniciem el servei amb la comanda ***systemctl restart nscd***, i seguidament escriurem la comanda ***getent passwd | tail*** per comprovar que el servei veu els usuaris LDAP
 
 ---
 
 ![](IMG/70.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
-
+Per acabar, editarem el fitxer ***nano /etc/pam.d/gmd-launch-environment*** per permentre l'inici de sessió gràfica
 ---
 
 ![](IMG/71.png)
