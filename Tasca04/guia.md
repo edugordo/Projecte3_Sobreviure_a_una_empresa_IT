@@ -70,87 +70,86 @@ Anirem al nostre buscador (Google) i cercarem *"http://IP de la màquina/lam"* i
 ---
 ![](IMG/20.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Seleccionarem la pestanya de la configuració de lam i anirem a l'opció de **"Editar perfils dels sevidor"**
 
 ---
 ![](IMG/21.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Iniciarem sessió amb el compte de lam i la contrasenyaserà el mateix que el nom d'usuari
 
 ---
 ![](IMG/22.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+La configuració comença a les preferències del servidor, on només haurem de tocar l'ultim apartat, el de **"Llista d'usuaris valids"**. El que haurem de configurar aqui és el *"cn"* i el domini. Hauria de quedar alguna cosa aixì: ***cn=admin,dc=innovatech08,dc=test
 
 ---
 ![](IMG/23.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Configurarem l'idioma i posarem el que vulguem
 
 ---
 ![](IMG/24.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+A la configuració d'eines, el que haurem de tocar es el sofix de l'arbre, on haurem de posar el nostre domini; ***innovatech08.test***
 
 ---
 ![](IMG/25.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Després haurem d'anar als tipus de comptes actius i en el *sufix LDAP*, posarem el nom que vam configurar la *ou* que vam configurar en la nostra terminal de la màquina virtual en el apartat dels usuaris. També, darrere de la "ou" posarem el nostre domini
 
 ---
 ![](IMG/26.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Farem el mateix en el apartat dels grups, també posarem el domini que tinguem i la "ou" que haguem configurat en el fitxer de la màquina virtual
 
 ---
 ![](IMG/27.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Quan ja tinguem tot el lam configurat correctament, haurem d'iniciar sessió normal amb el compte d'admin i la contrasenya **p@ssw0rd""
 
 ---
 ![](IMG/28.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+El primer cop que iniciem sessió després de configurar el lam, ens apareixerà aquest avis dient-nos que els sufixos no estan creats i que si els volem crear autoiomàticament. Per continuar, acceptarem l'opció de crear els tipus de compte que haguem configurat anteriorment
 
 ---
 ![](IMG/29.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Anirem a la pestanya de datl a la dreta, en el aparta de **Comptes**, i seleccionarem una de les dues opcions que hi ha. (usuaris o grups)
 
 ---
 ![](IMG/30.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
-
+Per configurar un nou grup, anirem a ***"Crear grup nou"***
 ---
 ![](IMG/31.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+S'ens obrirà la configuració i haurem de posar les dades que ens demanes correctament com les vulguem tenir. Ens demanarà el *nom del grup*, el *numero GID*, que ens permetrà organitzar i identificar els usuaris en grups autimàticament, i la descripció del grup
 
 ---
 ![](IMG/32.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Quan ja tinguem el grup configurat correctament, el guardarem i tornarem a la pagina dels grups per veure que s'hagi creat amb al nostra configuració
 
 ---
 ![](IMG/33.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Seguidament, anirem als Usuaris i farem exactament el mateix.
 
 ---
 ![](IMG/34.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Crearem un nou usuari i omplirem les dades que s'ens demanen per crear-lo. Ens demana *nom*, *cognom* i *inicials*
 
 ---
 ![](IMG/35.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Després, anirem a la pestanya de ***Unix*** de l'esquerra i configurarem els camps que ens demanen: *nom d'usuari*, *nom comú*, *número UID* que serveix per identificar l'usuari ràpidament, ja que és únic, i *directori inicial*
 
 ---
 ![](IMG/36.png)
 
-**"ldapsearch"** Serveix per fer consultes i buscar dins del directori que li indiquem en la comanda
+Abans de guardar l'usuari, li establirem una contraseña per iniciar sessió, l'acceptarem, i guardarem l'usuari. I ja tindrem el lam completament configurat i haurem acabat amb la segina part de la pràctica
 
 ---
 
