@@ -81,4 +81,4 @@ Usar **GitHub** per **documentar configuracions de servidors**, valorant els ava
 
 ---
 
-✅ [Guia](guia.md)
+## ✅ [Guia](guia.md)
