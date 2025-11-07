@@ -121,6 +121,7 @@ Anirem a la pestanya de datl a la dreta, en el aparta de **Comptes**, i seleccio
 ![](IMG/30.png)
 
 Per configurar un nou grup, anirem a ***"Crear grup nou"***
+
 ---
 ![](IMG/31.png)
 
@@ -149,10 +150,124 @@ Després, anirem a la pestanya de ***Unix*** de l'esquerra i configurarem els ca
 ---
 ![](IMG/36.png)
 
-Abans de guardar l'usuari, li establirem una contraseña per iniciar sessió, l'acceptarem, i guardarem l'usuari. I ja tindrem el lam completament configurat i haurem acabat amb la segina part de la pràctica
+Abans de guardar l'usuari, li establirem una contraseña per iniciar sessió, l'acceptarem, i guardarem l'usuari. I ja tindrem el *"lam* completament configurat i haurem acabat amb la segona part de la pràctica
 
 ---
 
 # UD4.AA4 Autentificació utilitzatnt LDAP
+
+---
+
+![](IMG/55.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/56.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/57.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/58.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/59.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/60.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/61.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/62.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/63.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/64.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/65.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/66.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/67.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/68.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/69.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/70.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/71.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/72.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
+
+---
+
+![](IMG/73.png)
+
+Seguidament, anirem als Usuaris i farem exactament el mateix.
 
 ---
