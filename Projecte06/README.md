@@ -30,3 +30,4 @@ Tal com es va indicar a la tasca, cal **penjar el vídeo en una plataforma** ade
 
 > 📹 Aquest projecte forma part del vostre **portafoli professional EverPia**, i pot ser un **actiu important** per al vostre futur en el sector tecnològic.
 
+## 📹 [Video DNS](video./video.md)
