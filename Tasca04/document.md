@@ -53,13 +53,13 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 
 | ID | Descripció de la Tasca | Detalls de la Configuració |
 | :---- | :---- | :---- |
-| **T.CLI.01** | Instal·lació del Client. | Instal·lar un client Ubuntu Desktop i configurar la interfície de xarxa per comunicar-se amb el servidor (Host-Only). |
-| **T.CLI.02** | Resolució de Noms. | Configurar l'arxiu d'**hosts** del client per resoldre l'adreça IP del servidor a **server.innovatechXX.test**. S'ha de proporcionar una instantània (snapshot) de la màquina client un cop fet el canvi. |
-| **T.CLI.03** | Validació de la Connectivitat LDAP. | Comprovar la connectivitat amb el servidor fent una consulta **ldapsearch** des del client. |
-| **T.CLI.04** | Mòduls d'Autenticació. | Instal·lar els mòduls necessaris per permetre l'autenticació amb LDAP. |
-| **T.CLI.05** | Configuració del Client. | Modificar els arxius de configuració del client necessaris. S'han de mostrar **clarament els canvis realitzats** en el codi dels arxius. |
-| **T.CLI.06** | Comprovació del Sistema. | Reiniciar els serveis i verificar amb la comanda **getent passwd** que els usuaris del directori són visibles localment. |
-| **T.CLI.07** | Prova d'Accés Final. | Reiniciar el client i iniciar sessió amb l'usuari **tech01**. Es requereix una captura de pantalla que demostri l'accés correcte i la **creació automàtica de la carpeta personal** de l'usuari. |
+| **T.CLI.01** | Instal·lació del Client. | ![Imatge2](IMG/3.png) Instal·lar un client Ubuntu Desktop i configurar la interfície de xarxa per comunicar-se amb el servidor (Host-Only). |
+| **T.CLI.02** | Resolució de Noms. | ![Imatge2](IMG/55.png) Configurar l'arxiu d'**hosts** del client per resoldre l'adreça IP del servidor a **server.innovatechXX.test**. S'ha de proporcionar una instantània (snapshot) de la màquina client un cop fet el canvi. |
+| **T.CLI.03** | Validació de la Connectivitat LDAP. | ![Imatge2](IMG/65.png) Comprovar la connectivitat amb el servidor fent una consulta **ldapsearch** des del client. |
+| **T.CLI.04** | Mòduls d'Autenticació. | ![Imatge2](IMG/57.png) Instal·lar els mòduls necessaris per permetre l'autenticació amb LDAP. |
+| **T.CLI.05** | Configuració del Client. | ![Imatge2](IMG/66.png) Editarem el fitxer nano nsswitcc.conf per indicar que usarem LDAP per usuaris i grups ![Imatge2](IMG/67.png) I després anirem al fitxer nano /etc/pam.d/common-password i eliminem la linia que conte el terme use_authtok ![Imatge2](IMG/68.png) Haurem d'editar un altre fitxer, concretament el nano /etc/pam.d/common-session i afegirem la linia per crear els perfils. (Modificar els arxius de configuració del client necessaris. S'han de mostrar **clarament els canvis realitzats** en el codi dels arxius.) |
+| **T.CLI.06** | Comprovació del Sistema. | ![Imatge2](IMG/69.png) Reiniciar els serveis i verificar amb la comanda **getent passwd** que els usuaris del directori són visibles localment. |
+| **T.CLI.07** | Prova d'Accés Final. | ![Imatge2](IMG/71.png) ![Imatge2](IMG/72.png) ![Imatge2](IMG/73.png) Reiniciar el client i iniciar sessió amb l'usuari **tech01**. Es requereix una captura de pantalla que demostri l'accés correcte i la **creació automàtica de la carpeta personal** de l'usuari. |
 
 **Acceptació del Plec de Condicions Tècniques (PCC) \- EverPia**
 
