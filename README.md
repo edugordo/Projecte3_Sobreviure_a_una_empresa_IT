@@ -98,7 +98,7 @@ Però també descobrireu què significa treballar com a **autèntics professiona
 3. **[P03 – Rèplica de la web](Projecte03/README.md)**
 4. **[P04 – Configuració servidor DNS](Projecte04/README.md)**
 5. **P05 – Presentació comparativa LVM vs Espais Emmagatzematge**
-6. **P06 – Vídeo per parelles fonaments del DNS**  
+6. **[P06 – Vídeo per parelles fonaments del DNS](Projecte06/README.md)**  
 7. **[P07 – Infografia de sostenibilitat](Projecte07/README.md)**
 
 ---
