@@ -166,7 +166,7 @@ El primer que farem es configurar el nom del client per tal que tingui el domini
 
 ![](IMG/56.png)
 
-Amb la comanda ***"dig sever.innovatech08.test" comprovarem que els noms funcionen correctament
+Amb la comanda ***"dig sever.innovatech08.test"*** comprovarem que els noms funcionen correctament
 
 ---
 
@@ -251,22 +251,25 @@ Reiniciem el servei amb la comanda ***systemctl restart nscd***, i seguidament e
 ![](IMG/70.png)
 
 Per acabar, editarem el fitxer ***nano /etc/pam.d/gmd-launch-environment*** per permentre l'inici de sessió gràfica
+
 ---
 
 ![](IMG/71.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Reiniciem el client i iniciem sessió amb l'usuari **tech01**
 
 ---
 
 ![](IMG/72.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Com podem veure, l'usuari i la carpeta personal s'han creat correctament
 
 ---
 
 ![](IMG/73.png)
 
-Seguidament, anirem als Usuaris i farem exactament el mateix.
+Per assegurar-nos del tot, podem entrar en la terminal i escriure **"id"**, i ens sortirà si l'usuari està creat correctament i en el grup correcte
 
 ---
+
+I això serìa tota la pràctica de LDAP
