@@ -70,4 +70,4 @@ Haureu de pensar **com una empresa tecnològica pot ser més ètica, més eficie
 
 > Utilitzeu els **apunts del dossier d’ODS - ASG** per completar la tasca.
 
-## ✅ [Solució](InfografíaMedioAmbienteReciclaje3elementosIlustradaPastel.pdf)
+## ✅ [Infografia](InfografíaMedioAmbienteReciclaje3elementosIlustradaPastel.pdf)
