@@ -112,6 +112,8 @@ La documentació dels dos casos s’ha de realitzar en **format Markdown** (`.md
 - 💬 Explicacions pas a pas  
 - 📁 Estructura dins la carpeta:
 
-### 📘 [Guia](guia.md)
+### 📘 [Guia Windows](guiawindows.md)
+
+### 📘 [Guia Zorin](guiazorin.md)
 
 ---
