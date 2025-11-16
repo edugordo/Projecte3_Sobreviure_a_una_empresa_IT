@@ -1,3 +1,5 @@
+## 🔄 LVM (Linux)
+
 ###IMPORTANT: Abans d'iniciar, haurem de crear dos particions de discos dins la màquina virtual en els paramentres
 
 ![Imatge](IMGZ/1.png)
