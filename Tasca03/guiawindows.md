@@ -4,7 +4,7 @@
 
 Primer de tot hem hagut de crear la màquina virtual i crear tres discos anomenat, disc01.vdi,disc02.vdi i disc03.vdi un cop creats aquest discos li cliquem a d’acord iiniciem la màquina i instalem el windows.
 
-![foto](IMGW/1cap.jpg)
+![foto](IMGW/2cap.jpg)
 
 Aquí podem veure com s’ens està instal·lan el windows 11.
 
