@@ -46,4 +46,4 @@ Aquesta pràctica et permetrà:
 - Utilitza **WP Local** instal·lat al PC de classe.  
 - Crea una nova web amb el nom:
 
-[Solució](solucio.md)
+[Web](replicaweb.md)
